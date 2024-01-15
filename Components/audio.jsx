@@ -20,7 +20,7 @@ const AudioComponent = (props) => {
   return (
     <div>
       <audio ref={audioRef}>
-        <source src="/src/assets/img/free.mp3" type="audio/mp3" />
+        <source src="/public/free.mp3" type="audio/mp3" />
         Tu navegador no soporta la etiqueta de audio.
       </audio>
     </div>
