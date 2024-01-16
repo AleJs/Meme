@@ -5,7 +5,7 @@ import Hero from "./../Components/Hero";
 const Pages = () => {
   return (
     <Routes>
-      <Route path="/portafolio-alejandro/" element={<Hero />} />
+      <Route path="/Meme/" element={<Hero />} />
 
       <Route exact path="*" element={<Hero />} />
     </Routes>
