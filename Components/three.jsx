@@ -13,7 +13,7 @@ function Scene() {
     ref.current.rotation.x += 1 * delta;
     ref.current.rotation.y += 0.5 * delta;
   });
-  const fbx = useFBX("/public/rat.fbx");
+  const fbx = useFBX("/rat.fbx");
   return <primitive object={fbx} ref={ref} />;
 }
 
