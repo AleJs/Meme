@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: '/',  // Base URL should be '/' for GitHub Pages
+  base: '/Meme/',  // Base URL should be '/' for GitHub Pages
   assetsInclude: ['**/*.fbx'],
   optimizeDeps: {
     minimize: true,

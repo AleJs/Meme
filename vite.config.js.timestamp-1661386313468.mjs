@@ -3,7 +3,7 @@ import { defineConfig } from "vite";
 import react from "@vitejs/plugin-react";
 var vite_config_default = defineConfig({
   plugins: [react()],
-  base: "/portafolio-v2/"
+  base: "/Meme/"
 });
 export {
   vite_config_default as default
