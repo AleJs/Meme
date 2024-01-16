@@ -4196,7 +4196,7 @@ query Author {
   @media (max-width: 320px) {
     left: 18%;
   }
-`;const pY=()=>Po(XN,{children:[Ft(j_,{path:"/portafolio-alejandro/",element:Ft(LP,{})}),Ft(j_,{exact:!0,path:"*",element:Ft(LP,{})})]});function mY(){return Ft(vY,{children:Po(gY,{className:"App",children:[Ft(U5,{}),Ft(pY,{})]})})}const gY=Hc.section`
+`;const pY=()=>Po(XN,{children:[Ft(j_,{path:"/Meme/",element:Ft(LP,{})}),Ft(j_,{exact:!0,path:"*",element:Ft(LP,{})})]});function mY(){return Ft(vY,{children:Po(gY,{className:"App",children:[Ft(U5,{}),Ft(pY,{})]})})}const gY=Hc.section`
   margin: 0 auto;
   height: 793px;
   max-width: 1440px;
